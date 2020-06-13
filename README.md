@@ -8,6 +8,6 @@ Random Forsest
 
 streamlit run app.py
 
-![](image/output.png)
+![](image/Output.png)
  
  
