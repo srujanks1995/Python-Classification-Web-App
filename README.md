@@ -1,4 +1,4 @@
-# Web-UI-Streamlit-Python
+# Streamlit-Python-Classification
 
 Logistic regression
 
