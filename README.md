@@ -1,5 +1,13 @@
 # Web-UI-Streamlit-Python
 
- streamlit run app.py
+Logistic regression
+
+SVM
+
+Random Forsest
+
+streamlit run app.py
+
+![](image/output.png)
  
  
